@@ -12,3 +12,5 @@ Project 2: Sequencing, linked lists
 Project 3: GhostRacer project, game design
 
 Project 4: Word processor
+
+4 homework assignments
